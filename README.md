@@ -48,7 +48,7 @@ python3 定时脚本.py
 一次弄1~4个账号，尽量不要弄太多号
 
 
-# 如果你觉得有用，可以给打赏
+# 打赏作者
 ![2](https://github.com/user-attachments/assets/fb96f697-bcd9-4bcc-8f1a-3199eb92f626)
 
 
